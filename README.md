@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keerthana Vijay</h1>
 <h3 align="center">Passionate web developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 - 🌱 I’m currently learning **Angular,Node**
 
 <h3 align="left">Connect with me:</h3>
